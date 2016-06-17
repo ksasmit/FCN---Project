@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PLTAnalyzer</string>
+    <string name="list_url_activity">Alexa Sites</string>
+    <string name="action_settings">Settings</string>
+    <string name="plt_button">Total PLT</string>
+    <string name="launch_pref_button">Select URL for PLT</string>
+    <string name="invalid_url">Invalid / Empty url entered:</string>
+    <string name="title_activity_select_url">SelectURLActivity</string>
+    <string name="alexa_sites">Top 25 Alexa Sites</string>
+    <string name="stats_display">Statistics</string>
+</resources>
